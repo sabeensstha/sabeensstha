@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Redux State Mangement**
 
-- 👯 I’m looking to collaborate on **JavaScript Projects**
+- 👯 I’m looking to collaborate on **Frontend Projects**
 
 - 👨‍💻 All of my projects are available at [github.com/sabeensstha](github.com/sabeensstha)
 
