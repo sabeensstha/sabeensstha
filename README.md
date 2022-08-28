@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sabeensstha@gmai.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZUnWIRmh_19J09nt3ZEiQaSXiYa-orHe/view?usp=sharing](https://drive.google.com/file/d/1ZUnWIRmh_19J09nt3ZEiQaSXiYa-orHe/view?usp=sharing)
+- 📄 Know about my experiences [shorturl.at/bfln3](shorturl.at/bfln3)
 
 - ⚡ Fun fact **Singing, Travelling**
 
