@@ -3,21 +3,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabeensstha&label=Profile%20views&color=0e75b6&style=flat" alt="sabeensstha" /> </p>
 
-- 🔭 I’m currently working on **Restaurant System**
+- 🔭 I’m currently working on **Projects**
 
-- 🌱 I’m currently learning **Redux State Mangement**
+- 🌱 I’m currently learning **React with Typescript**
 
 - 👯 I’m looking to collaborate on **Frontend Projects**
 
 - 👨‍💻 All of my projects are available at [github.com/sabeensstha](github.com/sabeensstha)
 
-- 💬 Ask me about **HTML,CSS,JS, React**
+- 💬 Ask me about **HTML,CSS,JS, React, Typescript**
 
 - 📫 How to reach me **sabeensstha@gmai.com**
 
 - 📄 Know about my experiences [shorturl.at/bfln3](shorturl.at/bfln3)
 
-- ⚡ Fun fact **Singing, Travelling**
+- ⚡ Fun fact **Singing, Travelling, Rapid Communication**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
